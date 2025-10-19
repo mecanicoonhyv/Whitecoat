@@ -39,3 +39,13 @@ Links
 - Wireframes: docs/Wireframes.md
 - Environment setup: docs/Env.md
 - Research notes: docs/Research.md
+- Plan review and gap analysis: docs/PlanReview-GapsAndEnhancements.md
+- Security and privacy: docs/SecurityAndPrivacy.md
+- Cloudinary media strategy: docs/CloudinaryMediaStrategy.md
+- Content curation guide: docs/ContentCurationGuide.md
+- Accessibility checklist: docs/AccessibilityChecklist.md
+- Testing and QA: docs/TestingAndQA.md
+- Deployment checklist: docs/DeploymentChecklist.md
+- Architecture and directory structure: docs/ArchitectureAndDirectoryStructure.md
+- API design: docs/APIDesign.md
+- Student ID migration plan: docs/StudentIDMigration.md
