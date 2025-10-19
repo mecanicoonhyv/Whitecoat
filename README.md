@@ -45,6 +45,7 @@ Links
 - Content curation guide: docs/ContentCurationGuide.md
 - Accessibility checklist: docs/AccessibilityChecklist.md
 - Testing and QA: docs/TestingAndQA.md
+- Deployment guide: DEPLOYMENT.md
 - Deployment checklist: docs/DeploymentChecklist.md
 - Architecture and directory structure: docs/ArchitectureAndDirectoryStructure.md
 - API design: docs/APIDesign.md
